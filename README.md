@@ -107,13 +107,8 @@ This course covers the **essentials of web design**, including **HTML, CSS**, an
 📢 **Want to collaborate?** Feel free to explore, fork, and contribute! 🤝  
 
 📌 **Connect with me:**  
-🔗 [GitHub Profile](https://github.com/yourusername)  
-🔗 [LinkedIn](https://linkedin.com/in/yourusername)  
+🔗 [GitHub Profile] https://github.com/fenilghael
 
 ---  
-✍️ *Maintained by [Your Name](https://github.com/yourusername).*  
+
 🎯 *Always learning, always growing!* 🌱  
-
----
-
-This format is designed to present each week's progress clearly, while providing valuable insights and takeaways from the course! Let me know if you'd like to make any adjustments. 😊
