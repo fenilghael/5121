@@ -1,7 +1,3 @@
-Here's a similar **Web Design Course** version for your `README.md`, with key takeaways and a breakdown for each week:
-
----
-
 # **Web Design Course Repository**  
 
 Welcome to my **Web Design Course Repository**! 🚀 This repository showcases my journey through learning **web design**, from basic HTML structuring to converting Figma designs into functional web pages. Below is a week-by-week breakdown of what I've accomplished so far.  
